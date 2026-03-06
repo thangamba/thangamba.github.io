@@ -1,2 +1,3 @@
 # thangamba.github.io
-<p>this is my first github repository <br> i made it to share my practice codes</p>
+this is my first github repository
+i made it to share my practice codes
